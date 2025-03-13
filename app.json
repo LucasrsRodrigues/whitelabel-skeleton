@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Orix Bank",
+    "slug": "orix-bank",
+    "version": "1.0.0",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#7bda33"
+    },
+    "icon": "./assets/icon.png",
+    "android": {
+      "package": "br.com.orixbank.app"
+    },
+    "ios": {
+      "bundleIdentifier": "br.com.orixbank.app"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d9ad48c6-bb2b-441d-a547-5b2f15d17914"
+      }
+    },
+    "owner": "dev.rsdev"
+  }
+}

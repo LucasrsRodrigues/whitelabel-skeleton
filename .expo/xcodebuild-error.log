@@ -1,0 +1,10 @@
+--- xcodebuild: WARNING: Using the first of multiple matching destinations:
+{ platform:iOS Simulator, id:9F751A82-EDE7-4F73-AF52-39EC364818D2, OS:18.3.1, name:iPhone 16 Plus }
+{ platform:iOS Simulator, id:9F751A82-EDE7-4F73-AF52-39EC364818D2, OS:18.3.1, name:iPhone 16 Plus }
+** BUILD FAILED **
+
+
+The following build commands failed:
+	PhaseScriptExecution [CP-User]\ Generate\ Specs /Users/lucasrs/Library/Developer/Xcode/DerivedData/OrixBank-eaeloouvqrsgamcihfgbcnijated/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/ReactCodegen.build/Script-46EB2E0001CCB0.sh (in target 'ReactCodegen' from project 'Pods')
+	Building workspace OrixBank with scheme OrixBank and configuration Debug
+(2 failures)
